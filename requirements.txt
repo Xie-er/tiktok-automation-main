@@ -1,0 +1,25 @@
+# --- 核心 Web 框架 (web_backend) ---
+fastapi>=0.110.0
+uvicorn>=0.27.0
+pydantic>=2.6.0
+jinja2>=3.1.3
+aiofiles>=23.2.1
+
+# --- 自动化控制 (tiktok_scout, tiktokgrabber, pet_grabber) ---
+uiautomator2>=2.16.25
+adbutils>=2.12.0
+lxml>=4.9.0
+
+# --- 数据与配置 ---
+PyYAML>=6.0.1
+sqlite3  # 标准库内置，但部分环境可能需要补充
+
+# --- 工具类 ---
+loguru>=0.7.2
+requests>=2.31.0
+numpy>=1.26.0
+psutil>=5.9.0
+argparse  # 标准库内置
+
+# --- 开发与诊断 ---
+py_compile  # 标准库内置

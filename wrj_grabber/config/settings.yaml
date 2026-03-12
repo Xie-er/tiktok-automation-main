@@ -1,0 +1,13 @@
+# 无人机执行配置
+modes:
+  - "like"
+  - "comment"
+dept: "wrj_general"
+max_daily_tasks: 100
+
+strategies:
+  comment_texts:
+    - "这无人机拍得真清楚！"
+    - "技术流啊，求带！"
+    - "哪款机器？求推荐。"
+    - "炸机了吗？哈哈开个玩笑。"

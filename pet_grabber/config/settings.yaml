@@ -1,0 +1,72 @@
+app:
+  activity: .main.MainActivity
+  package_name: com.ss.android.ugc.aweme
+limits:
+  daily_likes: 100
+  dry_run: false
+  max_sleep: 10
+  min_sleep: 3
+  video_process_limit: 50
+pet_translator_workflow:
+  comment_send_btn: com.ss.android.ugc.aweme:id/eq0
+  custom_comments:
+  - 安利一下MimiPet这个软件，可以精准识别宝贝情绪状态，自从有了这个软件，毛孩子的小心思全被拿捏，再也不用猜它为啥突然闹脾气啦😎！App Store直接下！
+  - '有没有和我一样的养宠人，总因为看不懂毛孩子的情绪内耗...直到发现MimiPet，直接解决我的苦恼！拍照就能识别猫狗品种，更重要的是能精准分析宝贝的情绪状态，知道它是开心想贴贴，还是焦虑需要安抚，真的太懂铲屎官了！
+
+    App Store 搜 MimiPet，让我们更懂身边的小毛孩～'
+  - '家人们！养宠神器MimiPet 必须安利给所有铲屎官！拍照识别猫狗品种超丝滑，混血宝的身世之谜一键解开～还有超精准的情绪识别功能，毛孩子的小心思全被拿捏，再也不用猜它为啥突然闹脾气啦！
+
+    快去 App Store 下载 MimiPet，一起做懂宠的满分铲屎官～'
+  - 这小只好可爱呀！
+  - 咕噜咕噜的，我看看说啥呢？
+  - 康康我康康我，家人们用我试一下呢？有什么意见欢迎提出。
+  video_like_button: ''
+ui_ids:
+  avatar_id: com.ss.android.ugc.aweme:id/avatar
+  comment_button: com.ss.android.ugc.aweme:id/et7
+  comment_content_id: com.ss.android.ugc.aweme:id/content
+  comment_input_box: com.ss.android.ugc.aweme:id/emn
+  comment_send_btn: com.ss.android.ugc.aweme:id/eqt
+  profile_first_video_item: com.ss.android.ugc.aweme:id/container
+  profile_follow_btn: com.ss.android.ugc.aweme:id/jy3
+  target_keywords:
+  - 我家
+  - 我家猫
+  - 我家狗
+  - 猫
+  - 猫猫
+  - 狗
+  - 狗狗
+  - 狗子
+  - 柯基
+  - 泰迪
+  - 罐头
+  - 掉毛
+  - 软便
+  - 遛弯
+  - 牵引绳
+  - 拆家
+  - 扑人
+  - 抓沙发
+  - 猫抓板
+  - 粘毛器
+  - 幼猫
+  - 幼犬
+  - 狗粮
+  - 猫粮
+  - 绝育
+  - 驱虫
+  - 毛孩子
+  - 逆子
+  - 捡来的
+  - 领养
+  - 疫苗
+  - 蹭手
+  - 啃沙发
+  - 主子
+  - 铲屎官
+  - 调皮
+  - 品种
+  - 多少钱
+  - 怎么养
+  video_like_button: com.ss.android.ugc.aweme:id/gkp

@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+logs/
+*.log
+web_backend/proc_logs/
+tiktok_scout/logs/
+tiktokgrabber/logs/
+
+# Databases
+*.db
+shared_data/tasks.db
+tiktokgrabber/data/history.db
+
+# Configs (Keep templates, but ignore local specific settings if needed)
+# scout_settings.yaml
+# settings.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

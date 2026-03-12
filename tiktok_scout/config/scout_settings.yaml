@@ -1,0 +1,22 @@
+crawler:
+  max_video_stay: 2
+  min_video_stay: 1
+  swipe_probability: 0.9
+device:
+  serial: GU9PAUMJB6ROGAV8
+search:
+  keyword: 无人机博主
+  keywords:
+  - 无人机博主
+  max_scrolls: 1000
+  sort_by: most_liked
+ui_ids:
+  copy_link_text: 复制链接
+  end_container: com.ss.android.ugc.aweme:id/fhr
+  end_text: 暂时没有更多了
+  first_video_cover: com.ss.android.ugc.aweme:id/cover
+  search_btn: com.ss.android.ugc.aweme:id/ko6
+  search_confirm_btn: com.ss.android.ugc.aweme:id/44=
+  search_input: android.widget.EditText
+  share_btn: com.ss.android.ugc.aweme:id/zpv
+  share_panel: com.ss.android.ugc.aweme:id/function_container

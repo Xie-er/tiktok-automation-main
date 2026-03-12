@@ -1,0 +1,6 @@
+uiautomator2
+adbutils
+lxml
+numpy
+PyYAML
+loguru

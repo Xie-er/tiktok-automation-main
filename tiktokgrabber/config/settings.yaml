@@ -1,0 +1,49 @@
+app:
+  activity: .main.MainActivity
+  package_name: com.ss.android.ugc.aweme
+keywords:
+- 兄弟们
+- 多少钱
+- 怎么买
+- 求链接
+- 带带
+- 价格
+- 买
+- 卖
+- '?'
+limits:
+  daily_likes: 50
+  dry_run: false
+  max_sleep: 8
+  min_sleep: 2
+  video_process_limit: 30
+pet_translator_workflow:
+  custom_comments:
+  - 你家的毛孩子好可爱，看你们相处起来好温馨。
+strategies:
+  comment_texts:
+  - 我也觉得是这样！[赞]
+  - 同感，感觉这个确实不错。
+  - 你说得对，我也打算入手一个。
+  dm_texts:
+  - Man What can I say
+  reply_texts:
+  - 我也觉得是这样！[赞]
+  - 同感，感觉这个确实不错。
+  - 你说得对，我也打算入手一个。
+ui_ids:
+  comment_button: com.ss.android.ugc.aweme:id/emz
+  comment_item_text: com.ss.android.ugc.aweme:id/content
+  comment_item_user_avatar: com.ss.android.ugc.aweme:id/avatar
+  comment_list_container: com.ss.android.ugc.aweme:id/e+f
+  dm_input_field: com.ss.android.ugc.aweme:id/di0
+  dm_page_back_btn: com.ss.android.ugc.aweme:id/pju
+  dm_send_btn: com.ss.android.ugc.aweme:id/jb5
+  profile_back_to_comment_btn: com.ss.android.ugc.aweme:id/pjw
+  profile_dm_btn: com.ss.android.ugc.aweme:id/y9y
+  profile_first_video_cover: com.ss.android.ugc.aweme:id/container
+  profile_more_btn: desc='更多'
+  profile_page_works_tab: text='作品'
+  video_detail_back_btn: com.ss.android.ugc.aweme:id/back
+  video_detail_comment_input: com.ss.android.ugc.aweme:id/comment_input_edit_text
+  video_detail_like_btn: xpath=//*[@resource-id='com.ss.android.ugc.aweme:id/ghm']/android.widget.ImageView[1]

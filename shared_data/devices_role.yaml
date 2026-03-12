@@ -1,0 +1,7 @@
+devices:
+  192.168.0.103:37459:
+    platform: tiktok
+    role: Scout
+  GU9PAUMJB6ROGAV8:
+    platform: xhs
+    role: Grabber
